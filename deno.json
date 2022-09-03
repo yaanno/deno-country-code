@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"allowJs": false,
+		"strict": true
+	},
+	"lint": {
+		"files": {
+			"include": [
+				"./"
+			],
+			"exclude": [
+				"data/"
+			]
+		},
+		"rules": {
+			"tags": [
+				"recommended"
+			]
+		}
+	}
+}
